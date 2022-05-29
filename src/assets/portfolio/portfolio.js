@@ -56,8 +56,8 @@ function Portfolio() {
 
                 <div className='githubcontainer'>
                 <h3 className='githubtitle'>My github</h3>
-                <img className='gitbox' src="http://ghchart.rshah.org/f71b1b/MercenaryHarpy6" alt="MercenaryHarpy6 Github chart" />
-                <a className='githublink' href='https://github.com/MercenaryHarpy6'>MercenaryHarpy6</a>
+                <img className='gitbox' src="http://ghchart.rshah.org/f71b1b/EduradoCorazon" alt="Eduardo Corazon's Github chart" />
+                <a className='githublink' href='https://github.com/EduardoCorazon'>EduardoCorazon</a>
                 </div>
                 
 
