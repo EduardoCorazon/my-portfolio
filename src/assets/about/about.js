@@ -8,6 +8,7 @@ function About() {
             <div className='abouttext'>
             <h3 className='aboutint'>Hello! I'm Eddy</h3>
             <p className='aboutpara'>
+              
             Cybersecurity engineer with 3+ years of experience helping companies implement secure policies by explaining and developing security solutions in ways business owners understand. Background in electrical engineering and computer science with strong verbal and presentation skills.
             </p>
             </div>
