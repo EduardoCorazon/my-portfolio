@@ -8,7 +8,7 @@ function About() {
             <div className='abouttext'>
             <h3 className='aboutint'>Hello! I'm Eddy</h3>
             <p className='aboutpara'>
-            I’m a highly passionate Cybersecurity professional with 2+ years of experience with a background in electric circuits, computer/software design, and vulnerability analysis. Cybersecurity is huge part of our society for both individuals and companies regardless of size. Vulnerabilities are all around us from our electric grid and water sources to our home networks and electronic devices, hence the need to implement good security practices and secure our network and data. To me cybersecurity is more than a need, it’s a genuine passion. I’m always eager to build on my academic foundations of both electrical engineering and computer science in order to design and create new tools or gain deeper knowledge on how things operate. In cybersecurity there’s a plethora of things to learn each with their own respective aspects and everyday there’s something new. I’m currently heading to my Junior year of college and I’m actively looking to gain more experience in my field and provide my all. If you would like to contact me, please feel free to reach out in the contact tab!
+            Cybersecurity engineer with 3+ years of experience helping companies implement secure policies by explaining and developing security solutions in ways business owners understand. Background in electrical engineering and computer science with strong verbal and presentation skills.
             </p>
             </div>
             <div className='fullpic'>
